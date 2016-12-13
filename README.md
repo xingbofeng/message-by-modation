@@ -26,6 +26,8 @@ Besides,you can also go to http://127.0.0.1:5984/ see the server.
 - [x] 用户可回复留言
 - [x] 通过Gravatar,输入邮箱获取头像
 - [x] 单元测试
+
+
 ## Star
 如果你喜欢本项目，那么求一个:star:
 
